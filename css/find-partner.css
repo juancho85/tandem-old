@@ -1,0 +1,28 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+#map-canvas{
+    margin-top: 10px;
+    padding: 0;
+    height: 400px;
+}
+
+#search-criteria-container{
+    margin-top: 10px;
+    padding: 0;
+    height: 400px;
+}
+
+#e1{
+    width: 100%;
+}
+
+.red{
+    border: solid red 2px;
+}
+
+.green{
+    border: solid green 2px;
+}

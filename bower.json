@@ -1,0 +1,17 @@
+{
+    "name": "tandem",
+    "version": "0.0.0",
+    "authors": [
+        "Juan David Sanchez <juancho85@gmail.com>"
+    ],
+    "description": "tandew website",
+    "main": "findpartner.html",
+    "keywords": [
+        "tandem"
+    ],
+    "dependencies": {
+        "angular-ui-select2": "latest"
+    },
+    "license": "MIT",
+    "private": true
+}
